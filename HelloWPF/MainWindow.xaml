@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Background="White" Foreground="#FFE42E2E">
     <Grid>
-        <Button Content="안녕, 헬로우 월드? 무뇌경^^" HorizontalAlignment="Left" Margin="200,90,0,0" VerticalAlignment="Top" Width="400" Height="200" BorderBrush="White" Foreground="Black"/>
+        <Button Content="안녕, 헬로우 월드? 무뇌경^^" HorizontalAlignment="Left" Margin="200,90,0,0" VerticalAlignment="Top" Width="400" Height="200" BorderBrush="White" Foreground="Black" Background="#FFED8181"/>
 
     </Grid>
 </Window>
