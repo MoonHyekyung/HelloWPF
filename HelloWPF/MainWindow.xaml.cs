@@ -24,5 +24,10 @@ namespace HelloWPF
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("당신은 버튼을 누르셨습니다~", "버튼 클릭 후",MessageBoxButton.YesNo, MessageBoxImage.Information);
+        }
     }
 }
